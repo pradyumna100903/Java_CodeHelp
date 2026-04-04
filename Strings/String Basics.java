@@ -11,13 +11,14 @@ public class StringBasics {
         String firstName = new String("Praddy");
         System.out.println(firstName);
 
-
+ // + Operator is used to Concatenate two Strings 
         System.out.println(firstName + " " + lastName);
 
 
         String str = " Babbar " ;
         str = "Love ";
 
+        // str will be pointing to the latest address where new string is created  
         System.out.println(str);
         
 
