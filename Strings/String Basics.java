@@ -11,7 +11,7 @@ public class StringBasics {
         String firstName = new String("Praddy");
         System.out.println(firstName);
 
- // + Operator is used to Concatenate two Strings 
+     // + Operator is used to Concatenate two Strings 
         System.out.println(firstName + " " + lastName);
 
 
